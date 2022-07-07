@@ -47,9 +47,7 @@ def parse_xml(path):
 
 def tasks_4(conn, dictt):
     """
-    Query combines the contents of
-    Devices and Transactions tables.
-    :param conn: the Connection object
+    Updates the exchange rate to Euros
     :return:
     """
     cur = conn.cursor()
