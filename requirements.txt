@@ -1,0 +1,3 @@
+sqlite
+pandas 
+psycopg2
